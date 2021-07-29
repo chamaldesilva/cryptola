@@ -1,5 +1,5 @@
 # cryptola
-- 
+- check latest updates from your favourite crypto!
 
 # client (using npm)
 - cd client && npm install
